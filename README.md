@@ -31,7 +31,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `#` - Fish#9627 (fishyfing#6565)
 - `/` - Ender#8775 (Tyler#0130), PvPCraft#0625 (\`\`\`Macdja38#7770)
 - `snake` - snake#0555 (AnonymousDapper#7467)
-- `<` - The Anime Moderator#5402 (LewisTehMinerz#6312)
+- `tam!` - The Anime Moderator#5402 (LewisTehMinerz#6312)
 
 ## Contributing
 Make a pull request, adding your own prefix to the list in alphabetical order (excluding the example). Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.

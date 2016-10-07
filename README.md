@@ -29,7 +29,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `=>` - Momo ♪♪#4559 (Minn#6688)
 - `§` - Fish#9627 (fishyfing#6565)
 - `#` - Fish#9627 (fishyfing#6565)
-- `/` - Ender#8775 (Tyler#0130)
+- `/` - Ender#8775 (Tyler#0130), PvPCraft#0625 (\`\`\`Macdja38#7770)
 - `snake` - snake#0555 (AnonymousDapper#7467)
 - `<` - The Anime Moderator#5402 (LewisTehMinerz#6312)
 

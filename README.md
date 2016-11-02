@@ -18,7 +18,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `!` - 35#5300 (Roadcrosser#3657), blargbot#0128 (stupid cat#8160)
 - `!!` - deeBot#0996 (dinos#0649)
 - `!?` - Grumpy Uncle#6918 (AnonymousDapper#7467)
-- `+` - haru#4269 (pyraxo#6185), 35#5300 (Roadcrosser#3657)
+- `+` - haru#4269 (pyraxo#6185), 35#5300 (Roadcrosser#3657), Hexacircle#6146 (EdibleDerpy#9121)
 - `＋` - 35#5300 (Roadcrosser#3657)
 - `​` - 35#5300 (Roadcrosser#3657)
 - `?=` - VOLT#7078 (Aurieh#8140)

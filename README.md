@@ -33,6 +33,15 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `snake` - snake#0555 (AnonymousDapper#7467)
 - `tam!` - The Anime Moderator#5402 (LewisTehMinerz#6312)
 - `TTBot-` - TTtie Bot#8141 (TTtie#4719)
+- `*` - Creeper#8003 (TomCreeper#1954)
+- `**` - DJ Creeper#3673 (TomCreeper#1954)
+- `!` - Mee6#4876 (
+- `!` - Gravebot#8716 (Gravestorm#3334)
+- `-` - Aethex#0394 (Programmix#0748)
+- `?` - Dyno#3861 (NoobLance™#3500)
+- `;;` FredBoat#9338 (Fre_d#2939)
+- `;;` FredBoatPatron#7070 (Fre_d#2939)
+- `;;` FredBoat♪♪β#7284 (Fre_d#2939)
 
 ## Contributing
 Make a pull request, adding your own prefix to the list in alphabetical order (excluding the example). Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
